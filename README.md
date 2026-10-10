@@ -2,6 +2,20 @@
 
 Spring Boot 3 · Spring Security · Spring Data JPA · MySQL · JSP (JSTL)
 
+## Screenshots
+
+### Home Page
+![Home Page](Image/Screenshot%202026-10-11%20002311.png)
+
+### Voter Registration
+![Voter Registration](Image/Screenshot%202026-10-11%20002321.png)
+
+### Login
+![Login](Image/Screenshot%202026-10-11%20002425.png)
+
+### Election Page
+![Election Page](Image/Screenshot%202026-10-11%20002449.png)
+
 ## Features
 - Voter registration (18+ age check, unique email & Voter ID, BCrypt-hashed passwords)
 - Login/logout with Spring Security, CSRF protection, role-based access (ADMIN / VOTER)
